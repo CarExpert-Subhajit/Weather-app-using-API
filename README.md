@@ -29,7 +29,7 @@ A modern weather application that allows users to search for any city and view r
 *Add your screenshots here*
 
 Example:
-![App Screenshot](your-screenshot.png)
+![App Screenshot](SS.jpg)
 
 ---
 
